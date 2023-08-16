@@ -1,30 +1,13 @@
-## BBQ
+# This is the homePage of the Recipe blog
 
----
+Blogs will be made per topic: 
+1. BBQ
+2. Sauces
+3. SlowCookings
+4. Pasta
+5. ...
 
-First BBQ Recipe
+## first the old ones will be added there after new ones will follow.
 
----
-
-## Sauces
-
----
-
-first Sauce
-
----
-
-## SlowCookings
-
----
-
-First slowCookings
-
----
-
-## Pasta
-
----
-
-First Pasta Recipe
----  
+# Note:
+Almost all receipes are variations on well or lesser known recipes.
