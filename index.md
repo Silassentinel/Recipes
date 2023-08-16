@@ -1,4 +1,4 @@
-# This is the homePage of the Recipe blog
+title:This is the homePage of the Recipe blog
 
 Blogs will be made per topic: 
 1. BBQ
