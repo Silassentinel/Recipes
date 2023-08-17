@@ -3,7 +3,7 @@
 
 
 ## Blogs will be made per topic
-1. [BBQ][BBQ/test.md)
+1. a: [BBQ][/BBQ/test.md)
 2. Sauces
 3. SlowCookings
 4. Pasta
