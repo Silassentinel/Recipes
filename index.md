@@ -1,6 +1,8 @@
-title:This is the homePage of the Recipe blog
+# This is the homePage of the Recipe blog
 
-Blogs will be made per topic: 
+
+
+## Blogs will be made per topic
 1. BBQ
 2. Sauces
 3. SlowCookings
