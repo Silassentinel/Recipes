@@ -1,6 +1,5 @@
-#
-##
 
+#
 
 ### Welcome on the HomePage of the Recipe blog
 
