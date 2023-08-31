@@ -1,15 +1,12 @@
 # This is the homePage of the Recipe blog
 
+Step into the world of delectable flavors and culinary delights as you grace the threshold of my recipe blog. While I may not lay claim to the titles of a seasoned chef, a fervent food connoisseur, or even a true epicurean, my heart resonates with the simple joy of savoring impeccable dishes. A beautifully crafted meal possesses the remarkable power to transcend mere sustenance, becoming a conduit for shared moments and cherished memories.
 
+Amidst these digital pages, my aspiration unfurls—to curate a haven where the allure of gastronomy intertwines with the art of heartfelt hospitality. With every recipe, I extend an earnest invitation for you to partake in this voyage, one that celebrates the essence of meticulously prepared cuisine and the profound delight of companionship.
 
-## Blogs will be made per topic
-1. a: [BBQ][/BBQ/test.md)
-2. Sauces
-3. SlowCookings
-4. Pasta
-5. ...
+Let us embark together on this culinary odyssey, where flavors dance, ingredients harmonize, and every bite narrates a story of its own. Your presence here is akin to a cherished guest, and I invite you to explore, indulge, and relish in the symphony of good food and camaraderie.
 
-## first the old ones will be added there after new ones will follow.
+Welcome, dear reader, to a realm where taste knows no boundaries and the pleasure of the palate knows no limits. Your journey into the world of gastronomy starts now.
 
-# Note:
+### Note:
 Almost all receipes are variations on well or lesser known recipes.
