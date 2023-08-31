@@ -1,4 +1,4 @@
-# This is the homePage of the Recipe blog
+## This is the homePage of the Recipe blog
 
 Step into the world of delectable flavors and culinary delights as you grace the threshold of my recipe blog. While I may not lay claim to the titles of a seasoned chef, a fervent food connoisseur, or even a true epicurean, my heart resonates with the simple joy of savoring impeccable dishes. A beautifully crafted meal possesses the remarkable power to transcend mere sustenance, becoming a conduit for shared moments and cherished memories.
 
