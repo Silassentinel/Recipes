@@ -12,3 +12,10 @@ Welcome, dear reader, to a realm where taste knows no boundaries and the pleasur
 
 ### Note:
 Almost all receipes are variations on well or lesser known recipes.
+
+### To be completed:
+* Lemon Honey Sauce
+* Italian Tomato Salsa
+* BBQ Remove file
+* Bbq Dry Rub
+* Chickenskewers Peanutsauce Veggies And Rice
