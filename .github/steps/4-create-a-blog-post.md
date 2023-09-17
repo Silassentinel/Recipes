@@ -41,4 +41,4 @@ For more information about configuring front matter, see the [Jekyll frontmatter
 1. Replace `YYYY-MM-DD` with today's date.
 1. Type a quick draft of your blog post. Remember, you can always edit it later.
 1. Commit your changes to your branch.
-1. Wait about 20 seconds then refresh this page (the one you're following instructions from). [GitHub Actions](https://docs.github.com/en/actions) will automatically update to the next step.
+1. Wait about 20 seconds then refresh this page (the one you're following Instructions: from). [GitHub Actions](https://docs.github.com/en/actions) will automatically update to the next step.

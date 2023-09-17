@@ -1,17 +1,22 @@
-Today's Menu:
-
-- 30-hour dry-rub cured pork roast
-- 4 hours of smoking with applewood
-- Wrapped in bacon and smoked for an additional hour
-- Resting for an hour in aluminum foil with fresh sage and extra rub spices on the bacon
-
-I'm currently using the drippings to cook corn cobs.
-
-Once those are ready, I'll prepare the BBQ sauce.
-
-The BBQ sauce is made with apple cider, ketchup, blonde and brown sugar, honey, corn oil, salt, and a touch of rub spices.
-
-The rub spice mix consists of:
-- 2 parts sugar to 1 part salt
-- 1/4 part paprika
-- A small amount of chili flakes
+# Dry Rub Cured Pork Roast with Smoked Bacon
+## Ingredients:
+- Pork roast
+- Dry rub
+- Thick Bacon slices
+- Sage
+- BBQ Dry Rub
+- BBQ Sauce
+## Instructions:
+1. Cure the pork roast in dry rub for 30 hours. 
+2. Coat it thoroughly and refrigerate.
+3. Smoke the pork roast over applewood for 4 hours,
+     off direct heat, 
+     over a pan that collects the drippings.
+4. Let the pork roast rest for an hour in aluminum foil 
+    along with fresh sage and extra rub spices.
+5. When the pork roast is cooled down, roll it in bacon slices.
+6. Coat the bacon with BBQ Sauce.
+7. Smoke the bacon wrapped pork roast for an additional hour.
+8. The roast can be kept off direct heat wrapped in aluminum foil 
+    until ready to serve.
+9. When ready to serve, slice the roast and serve with BBQ Sauce.

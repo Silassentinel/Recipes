@@ -10,13 +10,9 @@
 
 ## Instructions:
 1. Cut the shallots and add vinegar until they are submerged. Let this sit for a while to partially soften the shallots.
-
 2. Meanwhile, mix honey and mustard with a splash of olive oil until emulsified.
-
 3. Add the softened shallots along with the vinegar to the mixture.
-
 4. Mix everything well until it's emulsified.
-
 5. Finish by seasoning with pepper and salt.
 
 Drizzle this delightful mustard honey vinaigrette over your favorite salads or dishes for added flavor!

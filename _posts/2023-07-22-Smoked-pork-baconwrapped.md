@@ -43,7 +43,7 @@
 ### Instructions:
 1. In a mixing bowl, combine apple cider, ketchup, blonde sugar, brown sugar, honey, corn oil, salt, and the desired quantity of rub spices.
 
-2. Whisk the ingredients together until well blended.
+2. Whisk the Ingredients:together until well blended.
 
 3. Taste and adjust the seasoning if needed.
 

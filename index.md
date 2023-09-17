@@ -6,7 +6,7 @@ Step into the world of delectable flavors and culinary delights as you grace the
 
 Amidst these digital pages, my aspiration unfurls—to curate a haven where the allure of gastronomy intertwines with the art of heartfelt hospitality. With every recipe, I extend an earnest invitation for you to partake in this voyage, one that celebrates the essence of meticulously prepared cuisine and the profound delight of companionship.
 
-Let us embark together on this culinary odyssey, where flavors dance, ingredients harmonize, and every bite narrates a story of its own. Your presence here is akin to a cherished guest, and I invite you to explore, indulge, and relish in the symphony of good food and camaraderie.
+Let us embark together on this culinary odyssey, where flavors dance, Ingredients:harmonize, and every bite narrates a story of its own. Your presence here is akin to a cherished guest, and I invite you to explore, indulge, and relish in the symphony of good food and camaraderie.
 
 Welcome, dear reader, to a realm where taste knows no boundaries and the pleasure of the palate knows no limits. Your journey into the world of gastronomy starts now.
 
@@ -14,8 +14,7 @@ Welcome, dear reader, to a realm where taste knows no boundaries and the pleasur
 Almost all receipes are variations on well or lesser known recipes.
 
 ### To be completed:
-* Lemon Honey Sauce
-* Italian Tomato Salsa
-* BBQ Remove file
-* Bbq Dry Rub
-* Chickenskewers Peanutsauce Veggies And Rice
+
+
+### To be added:
+- Yoghut garlic sauce with parsley
