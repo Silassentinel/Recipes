@@ -17,4 +17,3 @@ Almost all receipes are variations on well or lesser known recipes.
 
 
 ### To be added:
-- Yoghut garlic sauce with parsley
