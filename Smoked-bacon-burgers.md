@@ -2,12 +2,12 @@
 layout: ../../layout/Blogs/MarkdownPostLayout.astro
 title: 'Smoked Bacon Burgers'
 pubDate: '2023-07-26'
-description: 'BBQ Dry Rub'
+description: 'Smoked Bacon Burgers'
 author: 'Benjamin Degryse'
 image:
     url: ''
     alt: 'The full Astro logo.'
-tags: ["BBQ", "Dry Rub","smoked", "burgers", "bacon", "USA","smoked"]
+tags: ["BBQ", "Dry Rub","smoked", burgers", "bacon", "USA","smoked"]
 ---
 
 # Smoked Bacon Burgers
