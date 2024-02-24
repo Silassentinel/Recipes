@@ -1,5 +1,5 @@
 ---
-layout: ../../layout/Blogs/MarkdownPostLayout.astro
+layout: ../../layout/Post/MarkdownPostLayout.astro
 title: 'Grilled Red Mullet'
 pubDate: '2023-08-19'
 description: 'A Fishy Dish'
