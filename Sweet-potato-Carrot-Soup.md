@@ -1,3 +1,17 @@
+---
+layout: ../../layout/Post/MarkdownPostLayout.astro
+title: 'Sweet potato and Carrot soup'
+pubDate: '2024-02-25'
+description: 'Flavourful winter soup'
+author: 'Benjamin Degryse'
+image:
+    url: ''
+    alt: 'The full Astro logo.'
+tags: ["Wibter", "Soup", "Vegan", "Carrot", "Potato"]
+---
+
+
+
 # Sweet Potato and Carrot Soup with Curry
 
 ## Ingredients:
