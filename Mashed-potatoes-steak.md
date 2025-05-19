@@ -7,7 +7,7 @@ author: 'Benjamin Degryse'
 image:
     url: ''
     alt: 'The full Astro logo.'
-tags: ["cabbage", "potatoes", "steak"]
+tags: ["cabbage", "potato", "potatoes", "steak"]
 ---
 
 # White Cabbage Mash with Steak
