@@ -6,8 +6,8 @@ description: 'Flavourful winter soup'
 author: 'Benjamin Degryse'
 image:
     url: ''
-    alt: 'The full Astro logo.'
-tags: ["Wibter", "Soup", "Vegan", "Carrot", "Potato"]
+    alt: 'there is no image'
+tags: ["Winter", "Soup", "Vegan", "Carrot", "Potato", "Sweet Potato", "Curry", "Turmeric", "Vegetable", "Easy", "Healthy", "Comfort Food", "Blended"]
 ---
 
 

@@ -6,7 +6,7 @@ description: 'A delicious and healthy alternative to mashed potatoes. - Wittekoo
 author: 'Benjamin Degryse'
 image:
     url: ''
-    alt: 'The full Astro logo.'
+    alt: 'there is no image'
 tags: ["cabbage", "potato", "potatoes", "steak"]
 ---
 

@@ -6,8 +6,8 @@ description: 'A dressing best used for roasted meats but good on anything.'
 author: 'Benjamin Degryse'
 image:
     url: ''
-    alt: 'The full Astro logo.'
-tags: ["Dessing", "Parsley", "Roasted meats"]
+    alt: 'there is no image'
+tags: ["Dessing", "Parsley", "Roasted meats", "Sauce", "Herb", "Argentine", "Easy", "Basil", "Thyme", "Rosemary", "Oregano", "Quick"]
 ---
 
 
