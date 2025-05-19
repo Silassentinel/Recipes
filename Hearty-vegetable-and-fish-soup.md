@@ -1,3 +1,14 @@
+---
+layout: ../../layout/Post/MarkdownPostLayout.astro
+title: 'Hearty Vegetable and Fish Soup'
+pubDate: '2025-05-19'
+description: 'A delicious soup combining fresh vegetables and whitefish fillets, seasoned with aromatic spices.'
+author: 'Benjamin Degryse'
+image:
+    url: ''
+    alt: 'Hearty Vegetable and Fish Soup'
+tags: ["Soup", "Fish", "Vegetables", "Comfort Food"]
+---
 # Hearty Vegetable and Fish Soup
 
 ## Ingredients:
