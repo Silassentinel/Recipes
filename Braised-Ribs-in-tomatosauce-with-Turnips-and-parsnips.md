@@ -1,21 +1,20 @@
-
 ---
-
 layout: ../../layout/Post/MarkdownPostLayout.astro
 title: 'Braised Ribs in Tomato Sauce with Turnips and Parsnips, Served with Garlic Butter Mash'
 pubDate: '2024-05-23'
 description: 'Tender ribs braised in a rich tomato sauce with hearty vegetables, served alongside creamy garlic butter mashed potatoes.'
 author: 'Benjamin Degryse'
 image:
-url: ''
-alt: 'Braised Ribs in Tomato Sauce with Turnips and Parsnips'
+    url: ''
+    alt: 'Braised Ribs in Tomato Sauce with Turnips and Parsnips'
 tags: ["Ribs", "ComfortFood", "BE"]
+---
 
-Braised Ribs in Tomato Sauce with Turnips and Parsnips, Served with Garlic Butter Mash
+# Braised Ribs in Tomato Sauce with Turnips and Parsnips, Served with Garlic Butter Mash
 
-Ingredients:
+## Ingredients:
 
-For the Ribs and Tomato Sauce:
+### For the Ribs and Tomato Sauce:
 
 1.5 kg pork or beef ribs
 
@@ -38,7 +37,7 @@ Salt and pepper (to taste)
 Olive oil (for cooking)
 
 
-For the Garlic Butter Mash:
+### For the Garlic Butter Mash:
 
 8 large potatoes, peeled and quartered
 
@@ -56,9 +55,9 @@ Salt (to taste)
 
 ---
 
-Instructions:
+## Instructions:
 
-Preparing the Ribs and Sauce:
+### Preparing the Ribs and Sauce:
 
 1. Sear the Ribs:
 
@@ -108,7 +107,7 @@ Cover and let simmer on low heat until the ribs are tender (about 1.5–2 hours)
 
 ---
 
-Preparing the Garlic Butter Mash:
+### Preparing the Garlic Butter Mash:
 
 1. Boil the Potatoes and Garlic:
 
@@ -132,7 +131,7 @@ Season with salt to taste.
 
 ---
 
-Serve:
+## Serve:
 
 Plate the ribs with a generous portion of tomato sauce and vegetables.
 
