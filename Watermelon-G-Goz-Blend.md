@@ -1,6 +1,6 @@
 ---
 layout: ../../layout/Post/MarkdownPostLayout.astro
-title: 'Watermelon Kombucha F2 (G+GOZ Blend)'
+title: 'Watermelon G Goz Blend'
 pubDate: '2026-08-13'
 description: 'Kombucha F2 bottling — G+GOZ F1 blend base, watermelon pulp/juice, no added sweetener, split across 3 jars'
 author: 'Benjamin Degryse'
@@ -10,7 +10,7 @@ image:
 tags: ["Kombucha", "F2", "Watermelon", "Ferment", "Beverage"]
 ---
 
-# Watermelon Kombucha F2 (G+GOZ Blend)
+# Watermelon G Goz Blend
 
 ## Ingredients:
 - G+GOZ F1 kombucha blend (Kombucha F1 — G and Kombucha F1 — GOZ poured together, both F1 complete) — fills most of each jar
