@@ -7,7 +7,7 @@ author: 'Benjamin Degryse'
 image:
     url: ''
     alt: 'Hearty Vegetable and Fish Soup'
-tags: ["Soup", "Fish", "Vegetables", "Comfort Food", "Seafood", "Whitefish", "Carrots", "Parsnips", "Butternut Squash", "Spiced", "Healthy", "Winter", "One-Pot", "Main Dish"]
+tags: ["Soup", "Seafood", "Comfort Food", "Spiced", "Healthy", "Winter", "One-Pot", "Main Dish", "Vegetable", "Fish", "Whitefish", "Onion", "Garlic", "Chili", "Carrot", "Parsnip", "Butternut Squash", "Clove", "Bay Leaf", "Cinnamon", "Butter"]
 ---
 # Hearty Vegetable and Fish Soup
 

@@ -7,7 +7,7 @@ author: 'Benjamin Degryse'
 image:
     url: ''
     alt: 'there is no image'
-tags: ["Fish", "Red Mullet", "Rice", "Mushrooms", "Chimichurri", "Eggplants"]
+tags: ["Fish", "Grilled", "Red Mullet", "Rice", "Mushroom", "Fish Broth", "Garlic", "Tomato", "Chimichurri", "Eggplant", "Basil", "Thyme", "Rosemary", "Oregano", "Olive Oil"]
 ---
 
 # GRILLED RED MULLET

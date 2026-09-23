@@ -7,7 +7,7 @@ author: 'Benjamin Degryse'
 image:
     url: ''
     alt: 'there is no image'
-tags: ["Kombucha", "F2", "Watermelon", "Basil", "Ferment", "Beverage"]
+tags: ["Kombucha", "F2", "Ferment", "Beverage", "Black Tea", "Watermelon", "Basil"]
 ---
 
 # Watermelon Basil Kombucha F2

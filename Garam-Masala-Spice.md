@@ -7,7 +7,7 @@ author: 'Benjamin Degryse'
 image:
     url: ''
     alt: 'there is no image'
-tags: ["Middle eastern", "Spice mix"]
+tags: ["Garam Masala", "Spice Mix", "Middle Eastern", "Cumin", "Coriander", "Cardamom", "Cinnamon", "Clove", "Nutmeg"]
 ---
 
 

@@ -7,7 +7,7 @@ author: 'Benjamin Degryse'
 image:
     url: ''
     alt: 'there is no image'
-tags: ["Salad Dressing", "Lemon", "Honey", "Olive Oil", "Sauce", "Sweet", "Tangy", "Citrus", "Summer", "Quick", "Easy", "No-Cook", "Versatile", "Healthy", "Light"]
+tags: ["Lemon Sauce", "Sauce", "Dressing", "Sweet", "Tangy", "Citrus", "Summer", "Quick", "Easy", "No-Cook", "Versatile", "Healthy", "Light", "Lemon", "Honey", "Olive Oil"]
 ---
 
 # Lemon honey sauce

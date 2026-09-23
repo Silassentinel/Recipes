@@ -7,7 +7,7 @@ author: 'Benjamin Degryse'
 image:
     url: ''
     alt: 'there is no image'
-tags: ["Marinade", "Chinese", "Asian"]
+tags: ["Chinese Marinade", "Marinade", "Chinese", "Asian", "Soy Sauce", "Fish Sauce", "Oyster Sauce", "Rice Vinegar", "Peanut Oil", "Five Spice"]
 ---
 
 

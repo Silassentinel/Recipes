@@ -7,7 +7,7 @@ author: 'Benjamin Degryse'
 image:
     url: ''
     alt: 'there is no image'
-tags: ["Dessing", "Parsley", "Roasted meats", "Sauce", "Herb", "Argentine", "Easy", "Basil", "Thyme", "Rosemary", "Oregano", "Quick"]
+tags: ["Chimichurri", "Sauce", "Dressing", "Herb", "Argentine", "Roasted Meat", "Easy", "Quick", "Parsley", "Basil", "Thyme", "Rosemary", "Oregano"]
 ---
 
 

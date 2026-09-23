@@ -7,7 +7,7 @@ author: 'Benjamin Degryse'
 image:
     url: ''
     alt: 'there is no image'
-tags: ["Kombucha", "F2", "Raspberry", "Honey", "Ferment", "Beverage"]
+tags: ["Kombucha", "F2", "Ferment", "Beverage", "Black Tea", "Raspberry", "Honey"]
 ---
 
 # Raspberry Honey Kombucha F2

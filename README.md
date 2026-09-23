@@ -28,14 +28,33 @@ tags: ["Tag1", "Tag2", "Tag3"]
 - Use double quotes for all tags
 - Separate tags with commas and a space: `["Tag1", "Tag2"]`
 - No trailing comma after the last tag
-- Use American English spelling for consistency
-- Capitalize the first letter of each tag
-- Categories to consider including:
-  - Meal type (Breakfast, Lunch, Dinner, Snack)
-  - Cuisine (Italian, Mexican, Japanese, etc.)
-  - Dietary (Vegan, Vegetarian, Gluten-Free, etc.)
-  - Main ingredient (Chicken, Beef, Tofu, etc.)
-  - Cooking method (BBQ, Roasted, Slow-Cooker, etc.)
+- Use American English spelling for consistency (`Yogurt`, not `Yoghurt`)
+- Use Title Case: capitalize every word (`Olive Oil`, `Dry Rub`)
+- Only letters, digits, spaces, hyphens and underscores — the site build
+  rejects a recipe with any other character in a tag
+- List descriptive tags first, then ingredient tags
+- Categories to include:
+  - Meal type / dish (Lunch, Snack, Soup, Salad, Sauce, Main Dish)
+  - Cuisine, as an adjective (Belgian, American, Chinese, Italian — not `BE`, `USA`, `CN`)
+  - Dietary (Vegan, Vegetarian, Healthy, etc.)
+  - Cooking method (BBQ, Smoked, Grilled, Fried, etc.)
+  - **Every ingredient** (see below)
+
+### Ingredient Tags
+Every ingredient gets a tag. The site's seasonal calendar
+(`/seizoenskalender`) links its vegetables and fruit to these tags, so
+consistent names are what make that linkage work.
+- **Singular**: `Carrot`, `Mushroom`, `Egg`, `Tomato` (mass nouns and herbs
+  that are naturally plural stay plural: `Chives`, `Nuts`, `Ribs`)
+- **Base ingredient, not the variety**: cherry tomatoes / San Marzano →
+  `Tomato`; red, yellow or silver onion → `Onion`; lemon basil → `Basil`;
+  chili flakes / chili pepper → `Chili`; paprika powder → `Paprika`.
+  Keep a separate tag only when it is genuinely a different vegetable:
+  `Bell Pepper`, `Butternut Squash`, `Chinese Cabbage`, `Sweet Potato`,
+  `Spring Onion`, `Shallot`
+- **Sub-recipes by their recipe's tag**, so dishes link to them: `Chimichurri`,
+  `Dry Rub`, `BBQ Sauce`, `Fish Broth`, `Lemon Sauce`, `Chinese Marinade`
+- **Skip** salt, black pepper and water — they are in nearly every recipe
 
 ## Content Structure
 
@@ -75,7 +94,7 @@ author: 'Benjamin Degryse'
 image:
     url: ''
     alt: 'Garlic roasted potatoes on a plate'
-tags: ["Potato", "Side", "Vegetarian", "Roasted", "Garlic"]
+tags: ["Side", "Vegetarian", "Roasted", "Potato", "Garlic", "Olive Oil", "Rosemary", "Thyme"]
 ---
 
 # Garlic Roasted Potatoes

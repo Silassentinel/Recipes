@@ -7,7 +7,7 @@ author: 'Benjamin Degryse'
 image:
     url: ''
     alt: 'there is no image'
-tags: ["Mustard", "Honey", "Vinaigrette", "Salad dressing"]
+tags: ["Vinaigrette", "Dressing", "Mustard", "Honey", "Apple Cider Vinegar", "Olive Oil", "Chives", "Shallot"]
 ---
 
 # Mustard Honey Vinaigrette

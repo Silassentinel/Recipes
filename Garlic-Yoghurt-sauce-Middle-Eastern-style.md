@@ -7,7 +7,7 @@ author: 'Benjamin Degryse'
 image:
     url: ''
     alt: 'there is no image'
-tags: ["Greek", "Sauce", "Yoghurt", "Middle Eastern", "Garlic", "Parsley", "Dip", "Easy", "Quick", "Condiment", "Mediterranean", "Garam Masala", "No-Cook", "Healthy"]
+tags: ["Sauce", "Dip", "Condiment", "Greek", "Middle Eastern", "Mediterranean", "Easy", "Quick", "No-Cook", "Healthy", "Yogurt", "Garlic", "Parsley", "Olive Oil", "Garam Masala"]
 ---
 
 

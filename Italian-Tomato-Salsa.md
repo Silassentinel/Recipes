@@ -7,7 +7,7 @@ author: 'Benjamin Degryse'
 image:
     url: ''
     alt: 'there is no image'
-tags: ["Salsa", "Tomatoes", "Summer", "Italian", "Smoked", "San Marzano", "Cherry Tomatoes", "Garlic", "Shallots", "Balsamic", "Fresh", "No-Cook", "Appetizer", "Bruschetta", "Easy", "Quick"]
+tags: ["Salsa", "Bruschetta", "Italian", "Summer", "Smoked", "Fresh", "No-Cook", "Appetizer", "Easy", "Quick", "Tomato", "Garlic", "Shallot", "Olive Oil", "Balsamic Vinegar"]
 ---
 
 # Italian tomato salsa

@@ -7,7 +7,7 @@ author: 'Benjamin Degryse'
 image:
     url: ''
     alt: 'there is no image'
-tags: ["BBQ", "Sauce", "Condiment", "Sweet", "Tangy", "USA", "American", "Grilling", "Apple Cider", "Honey", "Easy", "Homemade", "Sugar", "Summer"]
+tags: ["BBQ Sauce", "BBQ", "Sauce", "Condiment", "Sweet", "Tangy", "American", "Grilling", "Homemade", "Easy", "Summer", "Apple Cider", "Ketchup", "Sugar", "Honey", "Corn Oil", "Dry Rub"]
 ---
 
 

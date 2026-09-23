@@ -7,7 +7,7 @@ author: 'Benjamin Degryse'
 image:
     url: ''
     alt: 'there is no image'
-tags: ["BBQ", "Dry Rub", "USA"]
+tags: ["Dry Rub", "BBQ", "American", "Sugar", "Paprika", "Chili"]
 ---
 
 # HEADING

@@ -7,7 +7,7 @@ author: 'Benjamin Degryse'
 image:
     url: ''
     alt: 'Braised Ribs in Tomato Sauce with Turnips and Parsnips'
-tags: ["Ribs", "ComfortFood", "BE"]
+tags: ["Ribs", "Comfort Food", "Belgian", "Pork", "Beef", "Onion", "Garlic", "Turnip", "Parsnip", "Tomato", "Rosemary", "Thyme", "Olive Oil", "Potato", "Butter", "Egg", "Milk"]
 ---
 
 # Braised Ribs in Tomato Sauce with Turnips and Parsnips, Served with Garlic Butter Mash

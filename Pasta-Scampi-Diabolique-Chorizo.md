@@ -7,7 +7,7 @@ author: 'Benjamin Degryse'
 image:
     url: ''
     alt: 'there is no image'
-tags: ["Pasta", "Scampi", "Chorizo", "Spicy", "Seafood", "Spanish", "Curry", "Paprika", "Cardamom", "Tomato", "Bell Pepper", "Medium", "Fusion"]
+tags: ["Seafood", "Spanish", "Fusion", "Spicy", "Medium", "Pasta", "Scampi", "Chorizo", "Olive Oil", "Shallot", "Onion", "Garlic", "Tomato", "Curry", "Paprika", "Cardamom", "Chives", "Bell Pepper", "Yogurt", "Cream"]
 ---
 
 

@@ -7,7 +7,7 @@ author: 'Benjamin Degryse'
 image:
     url: ''
     alt: 'there is no image'
-tags: ["Kombucha", "F2", "Raspberry", "Cane Sugar", "Ferment", "Beverage"]
+tags: ["Kombucha", "F2", "Ferment", "Beverage", "Raspberry", "Cane Sugar"]
 ---
 
 # Raspberry Cane Sugar Kombucha F2

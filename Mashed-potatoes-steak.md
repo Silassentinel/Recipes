@@ -7,7 +7,7 @@ author: 'Benjamin Degryse'
 image:
     url: ''
     alt: 'there is no image'
-tags: ["cabbage", "potato", "potatoes", "steak"]
+tags: ["Mash", "Steak", "Beef", "Potato", "Cabbage", "Onion", "Garlic", "Bouillon", "Mustard", "Nutmeg", "Turmeric", "Curry"]
 ---
 
 # White Cabbage Mash with Steak

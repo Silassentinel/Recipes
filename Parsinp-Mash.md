@@ -7,7 +7,7 @@ author: 'Benjamin Degryse'
 image:
     url: ''
     alt: 'there is no image'
-tags: ["Parsnip", "Mash", "Belgium"]
+tags: ["Mash", "Belgian", "Parsnip", "Potato", "Butter", "Chicken Broth", "Garlic", "Shallot", "Parsley", "Nutmeg"]
 ---
 
 # Parsnip Mash

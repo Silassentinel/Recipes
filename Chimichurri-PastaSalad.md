@@ -7,7 +7,7 @@ author: 'Benjamin Degryse'
 image:
     url: ''
     alt: 'there is no image'
-tags: ["Roasted meat saus", "Chimichurri", "Pasta", "Salad"]
+tags: ["Salad", "Roasted Meat", "Chimichurri", "Pasta", "Bacon", "Nuts"]
 ---
 
 # Chimichurri Pasta Salad

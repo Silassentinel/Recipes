@@ -7,7 +7,7 @@ author: 'Benjamin Degryse'
 image:
     url: ''
     alt: 'there is no image'
-tags: ["Summer", "Figs", "Smoked ham", "Lemon sauce"]
+tags: ["Summer", "Smoked", "Fig", "Ham", "Mozzarella", "Basil", "Lemon Sauce"]
 ---
 
 # A fresh and light summer platter with figs, smoked ham, and lemon sauce.

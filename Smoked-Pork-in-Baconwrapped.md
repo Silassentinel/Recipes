@@ -7,7 +7,7 @@ author: 'Benjamin Degryse'
 image:
     url: ''
     alt: 'there is no image'
-tags: ["BBQ", "Dry Rub","cured", pork, "USA","smoked"]
+tags: ["BBQ", "American", "Smoked", "Cured", "Pork", "Bacon", "Dry Rub", "Sage", "BBQ Sauce"]
 ---
 
 

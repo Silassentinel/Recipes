@@ -7,7 +7,7 @@ author: 'Benjamin Degryse'
 image:
     url: ''
     alt: 'there is no image'
-tags: ["Cream", "Gravy", "Meat saus"]
+tags: ["Gravy", "Sauce", "Meatballs", "Cream", "Butter"]
 ---
 
 # Meat Gravy with Cream

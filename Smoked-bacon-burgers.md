@@ -7,7 +7,7 @@ author: 'Benjamin Degryse'
 image:
     url: ''
     alt: 'there is no image'
-tags: ["BBQ", "Dry Rub","smoked", burgers", "bacon", "USA","smoked"]
+tags: ["BBQ", "American", "Smoked", "Burger", "Bacon", "Dry Rub", "Pesto", "Potato", "Ribs"]
 ---
 
 # Smoked Bacon Burgers

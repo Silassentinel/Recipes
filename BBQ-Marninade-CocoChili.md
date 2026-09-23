@@ -7,7 +7,7 @@ author: 'Benjamin Degryse'
 image:
     url: ''
     alt: 'there is no image'
-tags: ["BBQ", "Marinade", "USA", "Cacao", "Chili", "Spicy", "Sweet", "Condiment", "Sauce", "Grilling", "Savory", "Easy", "Paprika", "Honey"]
+tags: ["Marinade", "BBQ", "American", "Sauce", "Condiment", "Grilling", "Spicy", "Sweet", "Savory", "Easy", "Cacao", "Chili", "Paprika", "Garlic", "Onion", "Honey", "Butter", "Ketchup", "Apple Cider Vinegar", "Worcestershire Sauce"]
 ---
 
 # BBQ Marinade with cacao and chili flakes

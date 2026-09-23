@@ -7,7 +7,7 @@ author: 'Benjamin Degryse'
 image:
     url: ''
     alt: 'there is no image'
-tags: ["Eggs", "Spread", "Bread", "Quick", "Easy", "Lunch", "Sandwich", "Mustard", "Pickles", "Curry", "Turmeric", "Cold", "Appetizer", "Party Food"]
+tags: ["Spread", "Sandwich", "Lunch", "Appetizer", "Party Food", "Cold", "Quick", "Easy", "Egg", "Bread", "Mustard", "Pickle", "Onion", "Yogurt", "Aioli", "Olive Oil", "Parsley", "Chives", "Curry", "Turmeric"]
 ---
 
 # EggSalade

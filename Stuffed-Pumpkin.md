@@ -7,7 +7,7 @@ author: 'Benjamin Degryse'
 image:
     url: ''
     alt: 'there is no image'
-tags: ["Pumpkin", "Stuffed", "Meat"]
+tags: ["Stuffed", "Pumpkin", "Pork", "Veal", "Egg", "Chili", "Nutmeg", "Panko"]
 ---
 
 # Stuffed Pumpkin

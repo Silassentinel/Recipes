@@ -7,7 +7,7 @@ author: 'Benjamin Degryse'
 image:
     url: ''
     alt: 'there is no image'
-tags: ["Kombucha", "F2", "Watermelon", "Ferment", "Beverage"]
+tags: ["Kombucha", "F2", "Ferment", "Beverage", "Watermelon"]
 ---
 
 # Watermelon G Goz Blend

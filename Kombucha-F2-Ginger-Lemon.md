@@ -7,7 +7,7 @@ author: 'Benjamin Degryse'
 image:
     url: ''
     alt: 'there is no image'
-tags: ["Kombucha", "F2", "Ginger", "Lemon", "Ferment", "Beverage"]
+tags: ["Kombucha", "F2", "Ferment", "Beverage", "Black Tea", "Lemon", "Ginger"]
 ---
 
 # Ginger Lemon Kombucha F2
