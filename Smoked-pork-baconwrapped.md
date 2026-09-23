@@ -7,7 +7,7 @@ author: 'Benjamin Degryse'
 image:
     url: ''
     alt: 'there is no image'
-tags: ["BBQ", "American", "Smoked", "Pork", "Bacon", "Dry Rub", "Sage", "Corn", "BBQ Sauce", "Apple Cider", "Ketchup", "Sugar", "Honey", "Corn Oil", "Paprika", "Chili"]
+tags: ["BBQ", "American", "Smoked", "Pork", "Bacon", "Dry Rub", "Sage", "Sweetcorn", "BBQ Sauce", "Apple Cider", "Ketchup", "Sugar", "Honey", "Corn Oil", "Paprika", "Chilli"]
 ---
 
 # Dry Rub Cured Pork Roast with Smoked Bacon and Corn on the Cob

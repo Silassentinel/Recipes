@@ -7,7 +7,7 @@ author: 'Benjamin Degryse'
 image:
     url: ''
     alt: 'there is no image'
-tags: ["Soup", "Winter", "Vegan", "Healthy", "Comfort Food", "Blended", "Easy", "Vegetable", "Sweet Potato", "Carrot", "Onion", "Garlic", "Vegetable Broth", "Curry", "Turmeric", "Parsley", "Chives", "Olive Oil"]
+tags: ["Soup", "Winter", "Vegan", "Healthy", "Comfort Food", "Blended", "Easy", "Vegetable", "Sweet Potato", "Carrot", "Onion", "Garlic", "Vegetable Stock", "Curry", "Turmeric", "Parsley", "Chives", "Olive Oil"]
 ---
 
 

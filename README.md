@@ -5,7 +5,7 @@
 - Use hyphens (`-`) to separate words
 - Don't use underscores or spaces
 - Be descriptive but concise
-- Follow English spelling
+- Follow British English spelling
 
 ## Frontmatter Standards
 
@@ -28,13 +28,15 @@ tags: ["Tag1", "Tag2", "Tag3"]
 - Use double quotes for all tags
 - Separate tags with commas and a space: `["Tag1", "Tag2"]`
 - No trailing comma after the last tag
-- Use American English spelling for consistency (`Yogurt`, not `Yoghurt`)
-- Use Title Case: capitalize every word (`Olive Oil`, `Dry Rub`)
+- Use British English spelling (`Yoghurt`, `Aubergine`, `Courgette`, `Chilli`, `Rocket`,
+  `Beetroot`, `Starter`, `Main Course`, `Stock` — not `Yogurt`, `Eggplant`,
+  `Zucchini`, `Chili`, `Arugula`, `Beet`, `Appetizer`, `Main Dish`, `Broth`)
+- Use Title Case: capitalise every word (`Olive Oil`, `Dry Rub`)
 - Only letters, digits, spaces, hyphens and underscores — the site build
   rejects a recipe with any other character in a tag
 - List descriptive tags first, then ingredient tags
 - Categories to include:
-  - Meal type / dish (Lunch, Snack, Soup, Salad, Sauce, Main Dish)
+  - Meal type / dish (Lunch, Starter, Snack, Soup, Salad, Sauce, Main Course)
   - Cuisine, as an adjective (Belgian, American, Chinese, Italian — not `BE`, `USA`, `CN`)
   - Dietary (Vegan, Vegetarian, Healthy, etc.)
   - Cooking method (BBQ, Smoked, Grilled, Fried, etc.)
@@ -48,12 +50,12 @@ consistent names are what make that linkage work.
   that are naturally plural stay plural: `Chives`, `Nuts`, `Ribs`)
 - **Base ingredient, not the variety**: cherry tomatoes / San Marzano →
   `Tomato`; red, yellow or silver onion → `Onion`; lemon basil → `Basil`;
-  chili flakes / chili pepper → `Chili`; paprika powder → `Paprika`.
+  chilli flakes / chilli pepper → `Chilli`; paprika powder → `Paprika`.
   Keep a separate tag only when it is genuinely a different vegetable:
-  `Bell Pepper`, `Butternut Squash`, `Chinese Cabbage`, `Sweet Potato`,
+  `Sweet Pepper`, `Butternut Squash`, `Chinese Cabbage`, `Sweet Potato`,
   `Spring Onion`, `Shallot`
 - **Sub-recipes by their recipe's tag**, so dishes link to them: `Chimichurri`,
-  `Dry Rub`, `BBQ Sauce`, `Fish Broth`, `Lemon Sauce`, `Chinese Marinade`
+  `Dry Rub`, `BBQ Sauce`, `Fish Stock`, `Lemon Sauce`, `Chinese Marinade`
 - **Skip** salt, black pepper and water — they are in nearly every recipe
 
 ## Content Structure

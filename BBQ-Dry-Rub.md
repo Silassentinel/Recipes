@@ -7,7 +7,7 @@ author: 'Benjamin Degryse'
 image:
     url: ''
     alt: 'there is no image'
-tags: ["Dry Rub", "BBQ", "American", "Sugar", "Paprika", "Chili"]
+tags: ["Dry Rub", "BBQ", "American", "Sugar", "Paprika", "Chilli"]
 ---
 
 # BBQ Dry Rub

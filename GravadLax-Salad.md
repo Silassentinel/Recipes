@@ -7,7 +7,7 @@ author: 'Benjamin Degryse'
 image:
     url: ''
     alt: 'Gravadlax Salad with Arugula and Cherry Tomatoes'
-tags: ["Salad", "Swedish", "Nordic", "Seafood", "Light", "Quick", "Easy", "No-Cook", "Summer", "Healthy", "Gravadlax", "Salmon", "Arugula", "Tomato", "Olive Oil"]
+tags: ["Salad", "Swedish", "Nordic", "Seafood", "Light", "Quick", "Easy", "No-Cook", "Summer", "Healthy", "Gravadlax", "Salmon", "Rocket", "Tomato", "Olive Oil"]
 ---
 
 # Gravadlax Salad with Arugula and Cherry Tomatoes

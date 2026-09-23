@@ -7,7 +7,7 @@ author: 'Benjamin Degryse'
 image:
     url: ''
     alt: 'there is no image'
-tags: ["American", "Appetizer", "Snack", "Party Food", "Spicy", "BBQ", "Smoked", "Grilled", "Stuffed", "Jalapeno", "Cheese", "Bacon", "Butter", "Beer", "Dry Rub"]
+tags: ["American", "Starter", "Snack", "Party Food", "Spicy", "BBQ", "Smoked", "Grilled", "Stuffed", "Jalapeno", "Cheese", "Bacon", "Butter", "Beer", "Dry Rub"]
 ---
 
 # Jalapeño Poppers

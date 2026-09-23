@@ -7,7 +7,7 @@ author: 'Benjamin Degryse'
 image:
     url: ''
     alt: 'Breaded Dandan Meatballs with Udon Noodles, Chinese Cabbage, and Sweet Paprika'
-tags: ["Meatballs", "Chinese", "Asian", "Fusion", "Main Dish", "Fried", "Medium", "Beef", "Pork", "Udon", "Tahini", "Miso", "Soy Sauce", "Ginger", "Onion", "Garlic", "Panko", "Flour", "Egg", "Chinese Cabbage", "Paprika", "Oyster Sauce"]
+tags: ["Meatballs", "Chinese", "Asian", "Fusion", "Main Course", "Fried", "Medium", "Beef", "Pork", "Udon", "Tahini", "Miso", "Soy Sauce", "Ginger", "Onion", "Garlic", "Panko", "Flour", "Egg", "Chinese Cabbage", "Paprika", "Oyster Sauce"]
 ---
 
 # Breaded Dandan Meatballs with Udon Noodles, Chinese Cabbage, and Sweet Paprika

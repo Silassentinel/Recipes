@@ -7,7 +7,7 @@ author: 'Benjamin Degryse'
 image:
     url: ''
     alt: 'Pasta with Scampi in Fennel-Garlic Cream Sauce'
-tags: ["Seafood", "Italian", "Belgian", "Creamy", "Medium", "30-Minutes", "Pasta", "Tagliatelle", "Scampi", "Fennel", "Shallot", "Garlic", "Butter", "Cream", "Chili", "Lemon", "White Wine"]
+tags: ["Seafood", "Italian", "Belgian", "Creamy", "Medium", "30-Minutes", "Pasta", "Tagliatelle", "Scampi", "Fennel", "Shallot", "Garlic", "Butter", "Cream", "Chilli", "Lemon", "White Wine"]
 ---
 
 # Pasta with Scampi in Fennel-Garlic Cream Sauce

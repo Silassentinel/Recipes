@@ -7,7 +7,7 @@ author: 'Benjamin Degryse'
 image:
     url: ''
     alt: 'there is no image'
-tags: ["Peanut Sauce", "Asian", "Chicken", "Rice", "Peanut Butter", "Coconut Milk", "Honey", "Chili", "Garlic", "Ginger", "Soy Sauce", "Fish Sauce", "Oyster Sauce", "Lime", "Snow Pea", "Carrot", "Bell Pepper", "Mushroom", "Baby Corn", "Broccoli", "Spring Onion", "Corn Oil", "Peanut Oil", "Chinese Marinade"]
+tags: ["Peanut Sauce", "Asian", "Chicken", "Rice", "Peanut Butter", "Coconut Milk", "Honey", "Chilli", "Garlic", "Ginger", "Soy Sauce", "Fish Sauce", "Oyster Sauce", "Lime", "Mangetout", "Carrot", "Sweet Pepper", "Mushroom", "Baby Corn", "Broccoli", "Spring Onion", "Corn Oil", "Peanut Oil", "Chinese Marinade"]
 ---
 
 # ChickenSkewers peanutbutter sauce veggies and rice

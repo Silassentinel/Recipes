@@ -7,7 +7,7 @@ author: 'Benjamin Degryse'
 image:
     url: ''
     alt: 'there is no image'
-tags: ["Fish Broth", "Broth", "Fish", "Red Mullet", "Plaice", "Celery", "Onion", "Garlic", "Bay Leaf"]
+tags: ["Fish Stock", "Stock", "Fish", "Red Mullet", "Plaice", "Celery", "Onion", "Garlic", "Bay Leaf"]
 ---
 
 # Fish Broth

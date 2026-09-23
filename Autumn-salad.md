@@ -7,7 +7,7 @@ author: 'Benjamin Degryse'
 image:
     url: ''
     alt: 'there is no image'
-tags: ["Salad", "Autumn", "Light", "Savory", "Beet", "Mushroom", "Bacon", "Green Bean", "Lettuce", "Nuts", "Parsley", "Garlic", "Nutmeg"]
+tags: ["Salad", "Autumn", "Light", "Savoury", "Beetroot", "Mushroom", "Bacon", "Green Bean", "Lettuce", "Nuts", "Parsley", "Garlic", "Nutmeg"]
 ---
 
 # Autumn Salad
